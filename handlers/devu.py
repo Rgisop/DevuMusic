@@ -18,7 +18,7 @@ def start_(bot, message):
 
     START_BUTTON = [
                 [
-                    InlineKeyboardButton(text="Updates", url=f"https://t.me/SILENT_BOTS"),
+                    InlineKeyboardButton(text="gяσυρ 💖", url=f"https://t.me/RG_Anime_Group"),
                     InlineKeyboardButton(text="ᴀᴅᴅ ᴍᴇ💥", url=f"http://t.me/{BOT_USERNAME}?startgroup=true"),
                 ],
                 [
@@ -80,7 +80,7 @@ def callback_query(Client, callback: CallbackQuery):
         REPO_MSG = f"""Hey, Here is the source code of {BOT_NAME} \nSo deploy your own and enjoy and don't forget to fork nd to give star 😕!!"""
         REPO_BUTTONS = [
             [
-                InlineKeyboardButton(text="Source", url="https://github.com/ItsmeHyper13/DevuMusic"),
+                InlineKeyboardButton(text="αηιмє 💕", url="https://t.me/Dub_Anime_in_Hindi"),
                 InlineKeyboardButton(text="Back", callback_data="HOME"),
             ],
         ]
@@ -93,7 +93,7 @@ def callback_query(Client, callback: CallbackQuery):
         START_TEXT = f"""Hey, Myself {BOT_NAME} \nA simple , lagfree and flexible music robot!\nIf you facing any issue related to this music bot then please join @{SUPPORT_GROUP}\nFor more help you can explorer help menu by tapping on /help !"""
         START_BUTTON = [
                     [
-                        InlineKeyboardButton(text="Updates", url="https://t.me/SILENT_BOTS"),
+                        InlineKeyboardButton(text="gяσυρ 💖", url="https://t.me/RG_Anime_Group"),
                         InlineKeyboardButton(text="ᴀᴅᴅ ᴍᴇ💥", url=f"http://t.me/{BOT_USERNAME}?startgroup=true"),
                     ],
                     [
